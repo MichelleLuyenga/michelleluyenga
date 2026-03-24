@@ -47,5 +47,5 @@
 
 ---
 
-💼 **Open to:** Security Engineer · Penetration Tester · Cybersecurity Engineer roles
+💼 **Open to:** Security Engineer · Penetration Tester · Cybersecurity Engineer roles \
 📍 Dar es Salaam · Johannesburg · Toronto · San Francisco · Remote
