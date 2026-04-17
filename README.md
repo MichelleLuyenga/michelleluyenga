@@ -24,5 +24,5 @@
 [![Website](https://img.shields.io/badge/MichelleVision-michellevision.com-1A3A5C?style=flat)](https://michellevision.com)
 [![Calendly](https://img.shields.io/badge/Book%20a%20Call-Calendly-006BFF?style=flat)](https://calendly.com/michelleluyenga)
 
-💼 **Open to:** Security Engineer · Application Security Engineer · Penetration Tester
+💼 **Open to:** Security Engineer · Application Security Engineer · Security Analyst
 📍 Open to offer Remote Worldwide
