@@ -27,7 +27,9 @@ developer's instinct to a field that exploits how systems fail.
 ## Focus Areas
 
 🏥 Healthcare Security HIPAA/HITECH · PHI · Vendor Risk
+
 💳 Fintech & API Security Mobile Money · Bug Bounty · OWASP
+
 💻 Technology Web Apps · APIs · Developer Perspective
 
 ---
