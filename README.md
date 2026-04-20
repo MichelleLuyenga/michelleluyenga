@@ -8,7 +8,7 @@
 ## $ whoami
 
 I spent 5+ years building web and mobile applications.
-Then I started asking a different question — not *how do I build this*,
+Then I started asking a different question not *how do I build this*,
 but *how does this break?*
 
 That shift led me into cybersecurity. I'm transitioning into SOC analysis
@@ -16,10 +16,10 @@ bringing a developer's instinct for how systems are designed to a field
 that exploits how they fail.
 
 **Currently:**
-- 🟢 Targeting SOC Analyst and Application Security roles — open to hire
-- 📘 CompTIA Security+ — In Progress
-- 📊 Splunk Core Certified User — In Progress
-- 🐛 Bug bounty active — HackerOne (Vodacom Tanzania · M-Pesa Africa)
+- 🟢 Targeting SOC Analyst and Application Security roles open to hire
+- 📘 CompTIA Security+ In Progress
+- 📊 Splunk Core Certified User In Progress
+- 🐛 Bug bounty active HackerOne (Vodacom Tanzania · M-Pesa Africa)
 - 📖 Documenting everything publicly through MichelleVision
 
 ---
@@ -38,10 +38,10 @@ that exploits how they fail.
 
 | Repo | What It Is |
 |------|-----------|
-| [soc-detection-lab](https://github.com/michelleluyenga/soc-detection-lab) | Home SOC lab — Splunk configs, detection rules, attack simulations, IR playbooks |
-| [hipaa-risk-toolkit](https://github.com/michelleluyenga/hipaa-risk-toolkit) | Python HIPAA/HITECH risk assessment toolkit — NIST SP 800-66 methodology |
-| [owasp-healthcare-notes](https://github.com/michelleluyenga/owasp-healthcare-notes) | OWASP Top 10 applied to healthcare — write-ups and PoC code |
-| [ctf-writeups](https://github.com/michelleluyenga/ctf-writeups) | TryHackMe SOC path · PortSwigger Academy — developer-to-security transition |
+| [soc-detection-lab](https://github.com/michelleluyenga/soc-detection-lab) | Home SOC lab Splunk configs, detection rules, attack simulations, IR playbooks |
+| [hipaa-risk-toolkit](https://github.com/michelleluyenga/hipaa-risk-toolkit) | Python HIPAA/HITECH risk assessment toolkit NIST SP 800-66 methodology |
+| [owasp-healthcare-notes](https://github.com/michelleluyenga/owasp-healthcare-notes) | OWASP Top 10 applied to healthcare write-ups and PoC code |
+| [ctf-writeups](https://github.com/michelleluyenga/ctf-writeups) | TryHackMe SOC path · PortSwigger Academy developer-to-security transition |
 | [michellevision-tools](https://github.com/michelleluyenga/michellevision-tools) | Security automation scripts and research tools |
 
 ---
@@ -63,12 +63,12 @@ PortSwigger   ████████░░  Active        — Web Security Aca
 Real security findings from advisory work through MichelleVision:
 
 ```
-[CRITICAL]  Auth bypass — patient portal IDOR, unauthenticated PHI access. Patched 48hrs.
-[CRITICAL]  Ransomware vector — vendor with domain admin, no BAA. Closed pre-exploitation.
-[CRITICAL]  PHI leakage in ML pipeline — 4,200 patients protected before production.
-[HIGH]      14 HIPAA gaps — $1.2M+ penalty exposure reduced to near-zero in 90 days.
-[HIGH]      Flat network, Windows XP medical devices — segmented across 4 sites in 60 days.
-[HIGH]      Phishing sim — 62% click rate reduced to 8% in 90 days.
+[CRITICAL]  Auth bypass patient portal IDOR, unauthenticated PHI access. Patched 48hrs.
+[CRITICAL]  Ransomware vector vendor with domain admin, no BAA. Closed pre-exploitation.
+[CRITICAL]  PHI leakage in ML pipeline 4,200 patients protected before production.
+[HIGH]      14 HIPAA gaps $1.2M+ penalty exposure reduced to near-zero in 90 days.
+[HIGH]      Flat network, Windows XP medical devices segmented across 4 sites in 60 days.
+[HIGH]      Phishing sim 62% click rate reduced to 8% in 90 days.
 ```
 
 All work was advisory in nature. Findings documented for transparency and learning.
