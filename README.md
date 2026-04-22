@@ -1,36 +1,39 @@
 # Michelle Luyenga
 
-> SOC Analyst (Transitioning) · Developer-Turned-Security · Bug Bounty Hunter
+> IT Builder · Security Knowledge · Founder @ MichelleVision
 > Dar es Salaam, Tanzania 🇹🇿 · [michellevision.com](https://michellevision.com)
 
 ---
 
 ## $ whoami
 
-I spent 5+ years building web and mobile applications.
-Then I started asking a different question not *how do I build this*,
-but *how does this break?*
+I build things. And I understand how they break.
 
-That shift led me into cybersecurity. I'm transitioning into SOC analysis
-bringing a developer's instinct for how systems are designed to a field
-that exploits how they fail.
+5+ years building web and mobile applications — now applying that builder
+perspective to create systems that are secure from day one across hospitality,
+healthcare, and fintech.
+
+Most developers build fast and fix security later.
+I bring security thinking into the build itself.
 
 **Currently:**
-- 🟢 Targeting SOC Analyst and Application Security roles open to hire
-- 📘 CompTIA Security+ In Progress
-- 📊 Splunk Core Certified User In Progress
-- 🐛 Bug bounty active HackerOne (Vodacom Tanzania · M-Pesa Africa)
+- 🏨 Building for hospitality — booking engines, PMS, guest data, PCI-DSS
+- 📘 CompTIA Security+ — In Progress
+- 📊 Splunk Core Certified User — In Progress
+- 🐛 Bug bounty active — HackerOne (Vodacom Tanzania · M-Pesa Africa)
+- 🔵 SOC Analyst — future path when certs are done
 - 📖 Documenting everything publicly through MichelleVision
 
 ---
 
-## Focus Areas
+## Sector Focus
 
-| Sector | What I Know |
-|--------|------------|
-| 🏥 Healthcare | HIPAA/HITECH · PHI · Vendor Risk · Clinical Web Apps · AI Pipeline Security |
-| 💳 Fintech | Mobile Money · API Security · Bug Bounty · OWASP · Business Logic |
-| 💻 Technology | Web & Mobile AppSec · Developer Perspective · Attack Surfaces |
+| Sector | What I Build & Secure |
+|--------|----------------------|
+| 🏨 Hospitality | Booking engines · PMS integrations · Guest data · PCI-DSS · Payment APIs |
+| 🏥 Healthcare | HIPAA/HITECH · PHI · Vendor risk · Clinical web apps · AI pipelines |
+| 💳 Fintech | Mobile money · API security · Bug bounty · OWASP · Business logic |
+| 💻 Technology | Secure dev from day one · Web & mobile · APIs · Developer perspective |
 
 ---
 
@@ -38,10 +41,10 @@ that exploits how they fail.
 
 | Repo | What It Is |
 |------|-----------|
-| [soc-detection-lab](https://github.com/michelleluyenga/soc-detection-lab) | Home SOC lab Splunk configs, detection rules, attack simulations, IR playbooks |
-| [hipaa-risk-toolkit](https://github.com/michelleluyenga/hipaa-risk-toolkit) | Python HIPAA/HITECH risk assessment toolkit NIST SP 800-66 methodology |
-| [owasp-healthcare-notes](https://github.com/michelleluyenga/owasp-healthcare-notes) | OWASP Top 10 applied to healthcare write-ups and PoC code |
-| [ctf-writeups](https://github.com/michelleluyenga/ctf-writeups) | TryHackMe SOC path · PortSwigger Academy developer-to-security transition |
+| [hospitality-security-notes](https://github.com/michelleluyenga/hospitality-security-notes) | OWASP Top 10 for hotel booking systems · PMS security · PCI-DSS · East Africa resort tech |
+| [hipaa-risk-toolkit](https://github.com/michelleluyenga/hipaa-risk-toolkit) | Python HIPAA/HITECH risk assessment toolkit — NIST SP 800-66 methodology |
+| [owasp-healthcare-notes](https://github.com/michelleluyenga/owasp-healthcare-notes) | OWASP Top 10 applied to healthcare — write-ups and PoC code |
+| [ctf-writeups](https://github.com/michelleluyenga/ctf-writeups) | TryHackMe · PortSwigger Academy — builder-to-security documented |
 | [michellevision-tools](https://github.com/michelleluyenga/michellevision-tools) | Security automation scripts and research tools |
 
 ---
@@ -49,40 +52,40 @@ that exploits how they fail.
 ## Learning Stack
 
 ```
-Security+     ████████░░  In Progress   — CompTIA baseline for SOC roles
+Security+     ████████░░  In Progress   — CompTIA baseline, SOC-ready
 Splunk Core   ███████░░░  In Progress   — SIEM tool certification
-TryHackMe     ██████████  Active        — SOC Analyst path
 HackerOne     ██████████  Active        — Bug bounty (Vodacom TZ · M-Pesa)
 PortSwigger   ████████░░  Active        — Web Security Academy all labs
+TryHackMe     ██████████  Active        — Security path
 ```
 
 ---
 
 ## Advisory Findings (Anonymized)
 
-Real security findings from advisory work through MichelleVision:
+Security findings from advisory work through MichelleVision — all anonymized:
 
 ```
-[CRITICAL]  Auth bypass patient portal IDOR, unauthenticated PHI access. Patched 48hrs.
-[CRITICAL]  Ransomware vector vendor with domain admin, no BAA. Closed pre-exploitation.
-[CRITICAL]  PHI leakage in ML pipeline 4,200 patients protected before production.
-[HIGH]      14 HIPAA gaps $1.2M+ penalty exposure reduced to near-zero in 90 days.
-[HIGH]      Flat network, Windows XP medical devices segmented across 4 sites in 60 days.
-[HIGH]      Phishing sim 62% click rate reduced to 8% in 90 days.
+[CRITICAL]  Auth bypass — patient portal IDOR, unauthenticated PHI access. Patched 48hrs.
+[CRITICAL]  Ransomware vector — vendor with domain admin, no BAA. Closed pre-exploitation.
+[CRITICAL]  PHI leakage in ML pipeline — 4,200 patients protected before production.
+[HIGH]      14 HIPAA gaps — $1.2M+ penalty exposure reduced to near-zero in 90 days.
+[HIGH]      Flat network, Windows XP medical devices — segmented across 4 sites in 60 days.
+[HIGH]      Phishing sim — 62% click rate reduced to 8% in 90 days.
 ```
 
-All work was advisory in nature. Findings documented for transparency and learning.
+All work was advisory in nature. Documented for transparency and learning.
 
 ---
 
 ## Tech Stack
 
 ```python
-security_ops  = ["Splunk", "Log Analysis", "Alert Triage", "Threat Detection", "Wireshark"]
-web_security  = ["Burp Suite", "OWASP Top 10", "Nmap", "Kali Linux", "Nikto", "ffuf"]
-compliance    = ["HIPAA/HITECH", "NIST CSF", "CIS Controls", "POPIA", "Vendor Risk"]
-scripting     = ["Python", "Bash", "JavaScript", "REST APIs", "Git"]
-builder_bg    = ["Full-stack Web", "Mobile Apps", "System Architecture", "5+ years"]
+builder_bg    = ["Full-stack Web", "Mobile Apps", "REST APIs", "System Architecture", "5+ yrs"]
+secure_dev    = ["OWASP Top 10", "Threat Modelling", "Secure Architecture", "Auth Patterns"]
+web_security  = ["Burp Suite", "Nmap", "Kali Linux", "Manual Testing", "Bug Bounty"]
+compliance    = ["PCI-DSS", "HIPAA/HITECH", "NIST CSF", "CIS Controls", "Vendor Risk"]
+scripting     = ["Python", "Bash", "JavaScript", "Git", "REST APIs"]
 ```
 
 ---
@@ -102,4 +105,4 @@ builder_bg    = ["Full-stack Web", "Mobile Apps", "System Architecture", "5+ yea
 
 ---
 
-*Developer who fell in love with breaking things. Building in public.*
+*Builder who understands how things break. Hospitality is the new frontier.*
