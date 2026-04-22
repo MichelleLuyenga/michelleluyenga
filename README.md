@@ -12,8 +12,8 @@ role        : Hospitality Technology Builder
 location    : Dar es Salaam, Tanzania 🇹🇿
 focus       : Hotels · Resorts · Lodges · Safari Camps
 builds      : Booking engines · PMS integrations · Guest apps · Payment systems
-security    : Built in from day one — not patched on after
-platform    : MichelleVision — where hospitality technology meets security
+security    : Built in from day one not patched on after
+platform    : MichelleVision where hospitality technology meets security
 ```
 
 I build the systems that power hotels, resorts, and lodges.
@@ -72,10 +72,10 @@ builder_bg        = ["Full-stack Web", "Mobile Apps", "REST APIs", "5+ years"]
 
 **Advisory findings from security research (anonymized):**
 ```
-[CRITICAL]  Auth bypass — patient portal IDOR. OWASP A01. Patched 48hrs.
-[CRITICAL]  Ransomware vector — vendor domain admin, no BAA. Closed pre-exploitation.
-[CRITICAL]  PHI leakage in ML pipeline — 4,200 protected before production.
-[HIGH]      14 HIPAA gaps — $1.2M+ exposure reduced to near-zero in 90 days.
+[CRITICAL]  Auth bypass patient portal IDOR. OWASP A01. Patched 48hrs.
+[CRITICAL]  Ransomware vector vendor domain admin, no BAA. Closed pre-exploitation.
+[CRITICAL]  PHI leakage in ML pipeline 4,200 protected before production.
+[HIGH]      14 HIPAA gaps $1.2M+ exposure reduced to near-zero in 90 days.
 ```
 
 ---
@@ -85,7 +85,7 @@ builder_bg        = ["Full-stack Web", "Mobile Apps", "REST APIs", "5+ years"]
 ```
 CompTIA Security+     ████████░░  In Progress
 Splunk Core           ███████░░░  In Progress
-HackerOne             ██████████  Active — Vodacom TZ · M-Pesa Africa
+HackerOne             ██████████  Active
 PortSwigger           ████████░░  Active — Web Security Academy
 SOC Analyst           ░░░░░░░░░░  Future path — after certs
 ```
