@@ -1,39 +1,34 @@
 # Michelle Luyenga
 
-> IT Builder · Security Knowledge · Founder @ MichelleVision
+> Hospitality Technology Builder · Founder @ MichelleVision
 > Dar es Salaam, Tanzania 🇹🇿 · [michellevision.com](https://michellevision.com)
 
 ---
 
 ## $ whoami
 
-I build things. And I understand how they break.
+```
+role        : Hospitality Technology Builder
+location    : Dar es Salaam, Tanzania 🇹🇿
+focus       : Hotels · Resorts · Lodges · Safari Camps
+builds      : Booking engines · PMS integrations · Guest apps · Payment systems
+security    : Built in from day one — not patched on after
+platform    : MichelleVision — where hospitality technology meets security
+```
 
-5+ years building web and mobile applications now applying that builder
-perspective to create systems that are secure from day one across hospitality,
-healthcare, and fintech.
-
-Most developers build fast and fix security later.
-I bring security thinking into the build itself.
-
-**Currently:**
-- 🏨 Building for hospitality booking engines, PMS, guest data, PCI-DSS
-- 📘 CompTIA Security+ In Progress
-- 📊 Splunk Core Certified User In Progress
-- 🐛 Bug bounty active HackerOne
-- 🔵 SOC Analyst future path when certs are done
-- 📖 Documenting everything publicly through MichelleVision
+I build the systems that power hotels, resorts, and lodges.
+Based in East Africa, in the heart of one of the world's great tourism markets.
 
 ---
 
-## Sector Focus
+## What I Build
 
-| Sector | What I Build & Secure |
-|--------|----------------------|
-| 🏨 Hospitality | Booking engines · PMS integrations · Guest data · PCI-DSS · Payment APIs |
-| 🏥 Healthcare | HIPAA/HITECH · PHI · Vendor risk · Clinical web apps · AI pipelines |
-| 💳 Fintech | Mobile money · API security · Bug bounty · OWASP · Business logic |
-| 💻 Technology | Secure dev from day one · Web & mobile · APIs · Developer perspective |
+| System | What It Covers |
+|--------|---------------|
+| 🏨 Booking & Reservations | Booking engines · OTA APIs · Real-time availability · Channel managers |
+| 📱 Guest Experience | Mobile check-in · Digital keys · Guest apps · WiFi portals · Loyalty systems |
+| 💳 Payments & Compliance | PCI-DSS · M-Pesa · Payment gateway APIs · Mobile money · Card security |
+| 🔒 Operations & Security | PMS integration · Staff access · Guest data protection · GDPR · Vendor risk |
 
 ---
 
@@ -41,68 +36,75 @@ I bring security thinking into the build itself.
 
 | Repo | What It Is |
 |------|-----------|
-| [hospitality-security-notes](https://github.com/michelleluyenga/hospitality-security-notes) | OWASP Top 10 for hotel booking systems · PMS security · PCI-DSS · East Africa resort tech |
-| [hipaa-risk-toolkit](https://github.com/michelleluyenga/hipaa-risk-toolkit) | Python HIPAA/HITECH risk assessment toolkit NIST SP 800-66 methodology |
-| [owasp-healthcare-notes](https://github.com/michelleluyenga/owasp-healthcare-notes) | OWASP Top 10 applied to healthcare write-ups and PoC code |
-| [ctf-writeups](https://github.com/michelleluyenga/ctf-writeups) | TryHackMe · PortSwigger Academy builder-to-security documented |
+| [hospitality-security-notes](https://github.com/michelleluyenga/hospitality-security-notes) | OWASP Top 10 for booking systems · PMS security · PCI-DSS · East Africa resort tech |
+| [hipaa-risk-toolkit](https://github.com/michelleluyenga/hipaa-risk-toolkit) | Python HIPAA/HITECH risk assessment toolkit regulated data expertise |
+| [owasp-healthcare-notes](https://github.com/michelleluyenga/owasp-healthcare-notes) | OWASP Top 10 applied to web apps cross-sector security depth |
 | [michellevision-tools](https://github.com/michelleluyenga/michellevision-tools) | Security automation scripts and research tools |
 
 ---
 
-## Learning Stack
+## East Africa Advantage
+
+Most hospitality technology is built by people who have never seen a safari lodge
+booking system, integrated M-Pesa for a beach resort, or understood the connectivity
+challenges of remote property management.
+
+I build from inside the market I serve.
 
 ```
-Security+     ████████░░  In Progress   — CompTIA baseline, SOC-ready
-Splunk Core   ███████░░░  In Progress   — SIEM tool certification
-HackerOne     ██████████  Active        — Bug bounty (Vodacom TZ · M-Pesa)
-PortSwigger   ████████░░  Active        — Web Security Academy all labs
-TryHackMe     ██████████  Active        — Security path
+Tanzania tourism context    ████████████  Authentic
+M-Pesa integration depth    ████████████  Real-world HackerOne research
+East Africa mobile money    ████████████  Vodacom TZ · M-Pesa Africa
+Safari lodge tech           ████████████  Remote · Offline-capable · Secure
 ```
 
 ---
 
-## Advisory Findings (Anonymized)
-
-Security findings from advisory work through MichelleVision — all anonymized:
-
-```
-[CRITICAL]  Auth bypass patient portal IDOR, unauthenticated PHI access. Patched 48hrs.
-[CRITICAL]  Ransomware vector vendor with domain admin, no BAA. Closed pre-exploitation.
-[CRITICAL]  PHI leakage in ML pipeline 4,200 patients protected before production.
-[HIGH]      14 HIPAA gaps $1.2M+ penalty exposure reduced to near-zero in 90 days.
-[HIGH]      Flat network, Windows XP medical devices segmented across 4 sites in 60 days.
-[HIGH]      Phishing sim 62% click rate reduced to 8% in 90 days.
-```
-
-All work was advisory in nature. Documented for transparency and learning.
-
----
-
-## Tech Stack
+## Security Foundation
 
 ```python
-builder_bg    = ["Full-stack Web", "Mobile Apps", "REST APIs", "System Architecture", "5+ yrs"]
-secure_dev    = ["OWASP Top 10", "Threat Modelling", "Secure Architecture", "Auth Patterns"]
-web_security  = ["Burp Suite", "Nmap", "Kali Linux", "Manual Testing", "Bug Bounty"]
-compliance    = ["PCI-DSS", "HIPAA/HITECH", "NIST CSF", "CIS Controls", "Vendor Risk"]
-scripting     = ["Python", "Bash", "JavaScript", "Git", "REST APIs"]
+hospitality_tech  = ["Booking Engines", "PMS Integration", "OTA APIs", "Guest Apps"]
+secure_dev        = ["OWASP Top 10", "PCI-DSS", "Threat Modelling", "API Security"]
+payments          = ["M-Pesa", "Payment Gateway", "Mobile Money", "Card Security"]
+compliance        = ["PCI-DSS", "GDPR", "HIPAA/HITECH", "Guest Data Protection"]
+builder_bg        = ["Full-stack Web", "Mobile Apps", "REST APIs", "5+ years"]
+```
+
+**Advisory findings from security research (anonymized):**
+```
+[CRITICAL]  Auth bypass — patient portal IDOR. OWASP A01. Patched 48hrs.
+[CRITICAL]  Ransomware vector — vendor domain admin, no BAA. Closed pre-exploitation.
+[CRITICAL]  PHI leakage in ML pipeline — 4,200 protected before production.
+[HIGH]      14 HIPAA gaps — $1.2M+ exposure reduced to near-zero in 90 days.
+```
+
+---
+
+## Currently
+
+```
+CompTIA Security+     ████████░░  In Progress
+Splunk Core           ███████░░░  In Progress
+HackerOne             ██████████  Active — Vodacom TZ · M-Pesa Africa
+PortSwigger           ████████░░  Active — Web Security Academy
+SOC Analyst           ░░░░░░░░░░  Future path — after certs
 ```
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michelleluyenga&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F46E5&icon_color=20d97a)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michelleluyenga&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C2410C&icon_color=20d97a)
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-michelleluyenga-4F46E5?style=flat&logo=linkedin)](https://linkedin.com/in/michelleluyenga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-michelleluyenga-C2410C?style=flat&logo=linkedin)](https://linkedin.com/in/michelleluyenga)
 [![HackerOne](https://img.shields.io/badge/HackerOne-michelleluyenga-ef4444?style=flat&logo=hackerone)](https://hackerone.com/michelleluyenga)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-michelleluyenga-f97316?style=flat&logo=tryhackme)](https://tryhackme.com/p/michelleluyenga)
-[![Website](https://img.shields.io/badge/Website-michellevision.com-20d97a?style=flat)](https://michellevision.com)
+[![Website](https://img.shields.io/badge/MichelleVision-michellevision.com-20d97a?style=flat)](https://michellevision.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-michelleluyenga-f97316?style=flat)](https://tryhackme.com/p/michelleluyenga)
 
 ---
 
-*Builder who understands how things break. Hospitality is the new frontier.*
+*Building the technology that powers hospitality. From Dar es Salaam, for the world.*
