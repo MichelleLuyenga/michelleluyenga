@@ -9,7 +9,7 @@
 
 I build things. And I understand how they break.
 
-5+ years building web and mobile applications — now applying that builder
+5+ years building web and mobile applications now applying that builder
 perspective to create systems that are secure from day one across hospitality,
 healthcare, and fintech.
 
@@ -17,11 +17,11 @@ Most developers build fast and fix security later.
 I bring security thinking into the build itself.
 
 **Currently:**
-- 🏨 Building for hospitality — booking engines, PMS, guest data, PCI-DSS
-- 📘 CompTIA Security+ — In Progress
-- 📊 Splunk Core Certified User — In Progress
-- 🐛 Bug bounty active — HackerOne (Vodacom Tanzania · M-Pesa Africa)
-- 🔵 SOC Analyst — future path when certs are done
+- 🏨 Building for hospitality booking engines, PMS, guest data, PCI-DSS
+- 📘 CompTIA Security+ In Progress
+- 📊 Splunk Core Certified User In Progress
+- 🐛 Bug bounty active HackerOne
+- 🔵 SOC Analyst future path when certs are done
 - 📖 Documenting everything publicly through MichelleVision
 
 ---
@@ -42,9 +42,9 @@ I bring security thinking into the build itself.
 | Repo | What It Is |
 |------|-----------|
 | [hospitality-security-notes](https://github.com/michelleluyenga/hospitality-security-notes) | OWASP Top 10 for hotel booking systems · PMS security · PCI-DSS · East Africa resort tech |
-| [hipaa-risk-toolkit](https://github.com/michelleluyenga/hipaa-risk-toolkit) | Python HIPAA/HITECH risk assessment toolkit — NIST SP 800-66 methodology |
-| [owasp-healthcare-notes](https://github.com/michelleluyenga/owasp-healthcare-notes) | OWASP Top 10 applied to healthcare — write-ups and PoC code |
-| [ctf-writeups](https://github.com/michelleluyenga/ctf-writeups) | TryHackMe · PortSwigger Academy — builder-to-security documented |
+| [hipaa-risk-toolkit](https://github.com/michelleluyenga/hipaa-risk-toolkit) | Python HIPAA/HITECH risk assessment toolkit NIST SP 800-66 methodology |
+| [owasp-healthcare-notes](https://github.com/michelleluyenga/owasp-healthcare-notes) | OWASP Top 10 applied to healthcare write-ups and PoC code |
+| [ctf-writeups](https://github.com/michelleluyenga/ctf-writeups) | TryHackMe · PortSwigger Academy builder-to-security documented |
 | [michellevision-tools](https://github.com/michelleluyenga/michellevision-tools) | Security automation scripts and research tools |
 
 ---
@@ -66,12 +66,12 @@ TryHackMe     ██████████  Active        — Security path
 Security findings from advisory work through MichelleVision — all anonymized:
 
 ```
-[CRITICAL]  Auth bypass — patient portal IDOR, unauthenticated PHI access. Patched 48hrs.
-[CRITICAL]  Ransomware vector — vendor with domain admin, no BAA. Closed pre-exploitation.
-[CRITICAL]  PHI leakage in ML pipeline — 4,200 patients protected before production.
-[HIGH]      14 HIPAA gaps — $1.2M+ penalty exposure reduced to near-zero in 90 days.
-[HIGH]      Flat network, Windows XP medical devices — segmented across 4 sites in 60 days.
-[HIGH]      Phishing sim — 62% click rate reduced to 8% in 90 days.
+[CRITICAL]  Auth bypass patient portal IDOR, unauthenticated PHI access. Patched 48hrs.
+[CRITICAL]  Ransomware vector vendor with domain admin, no BAA. Closed pre-exploitation.
+[CRITICAL]  PHI leakage in ML pipeline 4,200 patients protected before production.
+[HIGH]      14 HIPAA gaps $1.2M+ penalty exposure reduced to near-zero in 90 days.
+[HIGH]      Flat network, Windows XP medical devices segmented across 4 sites in 60 days.
+[HIGH]      Phishing sim 62% click rate reduced to 8% in 90 days.
 ```
 
 All work was advisory in nature. Documented for transparency and learning.
