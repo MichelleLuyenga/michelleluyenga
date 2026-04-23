@@ -1,7 +1,7 @@
 # Michelle Luyenga
 
 > Hospitality Technology Builder · Founder @ MichelleVision
-> Dar es Salaam, Tanzania 🇹🇿 · [michellevision.com](https://michellevision.com)
+> Online, Worldwide 🌍 · [michellevision.com](https://michellevision.com)
 
 ---
 
@@ -9,7 +9,7 @@
 
 ```
 role        : Hospitality Technology Builder
-location    : Dar es Salaam, Tanzania 🇹🇿
+location    : Online, Worldwide 🌍
 focus       : Hotels · Resorts · Lodges · Safari Camps
 builds      : Booking engines · PMS integrations · Guest apps · Payment systems
 security    : Built in from day one not patched on after
@@ -54,7 +54,7 @@ I build from inside the market I serve.
 ```
 Tanzania tourism context    ████████████  Authentic
 M-Pesa integration depth    ████████████  Real-world HackerOne research
-East Africa mobile money    ████████████  Vodacom TZ · M-Pesa Africa
+East Africa mobile money    ████████████  Vodacom · M-Pesa Africa
 Safari lodge tech           ████████████  Remote · Offline-capable · Secure
 ```
 
