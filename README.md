@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C9A96E&height=120&section=header&text=Michelle%20Luyenavarro&fontSize=32&fontColor=EDE9F0&fontAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C9A96E&height=120&section=header&text=Michelle%20Luyenga&fontSize=32&fontColor=EDE9F0&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
