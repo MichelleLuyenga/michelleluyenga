@@ -99,7 +99,7 @@ const michelle = {
 I write about building in and for hospitality technology — published as I learn.
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned trying to mock a PMS integration from scratch](https://michellevision.com/writing/mock-pms-integration)
+- [What I learned trying to mock a PMS integration from scratch](https://www.michellevision.com/writing/what-i-learned-mocking-pms-integration)
 - [Why digital check-in keeps failing guests](https://michellevision.com/writing/why-digital-checkin-keeps-failing)
 - [Offline-first architecture for hotel staff apps](https://michellevision.com/writing/offline-first-hotel-staff-apps)
 - [The legacy PMS grip — and where it's actually loosening](https://michellevision.com/writing/legacy-pms-grip)
