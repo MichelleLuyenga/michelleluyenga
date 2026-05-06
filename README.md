@@ -85,14 +85,14 @@ const michelle = {
 | II | **In-Room Ordering API** | F&B workflow, reservation-scoped JWT, kitchen webhook events | Node.js · PostgreSQL · JWT · Webhooks |
 | III | **Housekeeping Task App** | How staff UX differs fundamentally from guest-facing design | React Native · Expo · WebSocket · Offline-first |
 | IV | **Mock PMS Integration Layer** | HTNG message formats, `OTA_HotelResNotifRQ`, reservation sync | TypeScript · XML parsing · Event queues |
-| V | **AI Concierge & Staff Assistant** | Where LLMs earn their place in hotel ops — and where they break | Claude API · RAG · LangChain · pgvector |
+| V | **AI Concierge & Staff Assistant** | Where LLMs earn their place in hotel ops and where they break | Claude API · RAG · LangChain · pgvector |
 
 <br/>
 
 ## What I bring to hospitality tech
 
 ```
-✦  Security is my baseline — not a feature
+✦  Security is my baseline not a feature
    5 years building auth systems for production. Hospitality handles
    payments and identity at scale. That transfers immediately.
 
@@ -108,7 +108,7 @@ const michelle = {
 
 ✦  AI with proper grounding
    Built RAG pipelines that say "I don't know" instead of hallucinating
-   hotel amenities. The hard part isn't the LLM — it's the retrieval
+   hotel amenities. The hard part isn't the LLM it's the retrieval
    architecture and the failure path.
 
 ✦  Honest about gaps
@@ -125,23 +125,23 @@ I keep a public research log at [michellevision.com/journal](https://michellevis
 Recent entries:
 
 - `LOG-001` · [On learning a domain you can't work in yet](https://www.michellevision.com/journal/log-001-learning-domain-from-outside) ⌁ Thought
-- `LOG-002` · [Reservation-scoped JWT auth — design decisions](https://michellevision.com/journal/log-002-jwt-reservation-scoped-auth) ⌁ Research
-- `LOG-003` · [RAG pipeline for the hotel concierge — chunking and retrieval](https://michellevision.com/journal/log-003-rag-pipeline-hotel-concierge) ⌁ Research
+- `LOG-002` · [Reservation-scoped JWT auth design decisions](https://michellevision.com/journal/log-002-jwt-reservation-scoped-auth) ⌁ Research
+- `LOG-003` · [RAG pipeline for the hotel concierge chunking and retrieval](https://michellevision.com/journal/log-003-rag-pipeline-hotel-concierge) ⌁ Research
 - `LOG-004` · [Why does hotel tech feel like it was designed by people who've never stayed in a hotel?](https://michellevision.com/journal/log-004-hotel-tech-designed-for-demos) ✦ Thought
 - `LOG-005` · [On learning a domain you can't work in yet](https://michellevision.com/journal/log-005-learning-domain-from-outside) ✦ Thought
 
 
 ## Writing
 
-Essays on building in and for hospitality technology — published as I learn, honest about what I don't know yet.
+Essays on building in and for hospitality technology published as I learn, honest about what I don't know yet.
 
 <!-- BLOG-POST-LIST:START -->
 - [What I learned trying to mock a PMS integration from scratch](https://michellevision.com/writing/what-i-learned-mocking-pms-integration)
-- [Where AI actually helps in hotel operations — and where it breaks](https://michellevision.com/writing/ai-in-hotel-operations)
+- [Where AI actually helps in hotel operations and where it breaks](https://michellevision.com/writing/ai-in-hotel-operations)
 - [Why digital check-in keeps failing guests](https://michellevision.com/writing/why-digital-checkin-keeps-failing)
 - [Offline-first architecture for hotel staff apps](https://michellevision.com/writing/offline-first-hotel-staff-apps)
-- [The legacy PMS grip — and where it's actually loosening](https://michellevision.com/writing/legacy-pms-grip)
-- [JWT auth tied to reservation IDs — a pattern worth stealing](https://michellevision.com/writing/jwt-auth-reservation-ids)
+- [The legacy PMS grip and where it's actually loosening](https://michellevision.com/writing/legacy-pms-grip)
+- [JWT auth tied to reservation IDs a pattern worth stealing](https://michellevision.com/writing/jwt-auth-reservation-ids)
 <!-- BLOG-POST-LIST:END -->
 
 → [All 9 essays at michellevision.com/writing](https://michellevision.com/writing)
