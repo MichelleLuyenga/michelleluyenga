@@ -7,9 +7,10 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║   Software Builder  ·  Entering Hospitality Technology   ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║   Software Builder  ·  Engineering Hospitality Technology            ║
+║   5 demos  ·  9 essays  ·  Engineering journal  ·  Honest about gaps ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -18,9 +19,11 @@
 
 ## Hi, I'm Michelle 👋
 
-I'm a full-stack engineer with **5+ years building secure web, mobile, and API systems** now deliberately transitioning into **hospitality technology**.
+I'm a full-stack engineer with **5+ years building secure web, mobile, API, and AI systems** now deliberately transitioning into **hospitality technology**.
 
-I didn't drift into this. I looked at an industry still running on legacy infrastructure and saw a precise engineering problem one that matches exactly what I've spent five years learning to solve.
+I founded and ran an AR startup for three years as sole engineer and IT administrator. Then I looked at the hospitality industry still running on 1990s infrastructure and saw a precise engineering problem that matches exactly what I've spent five years learning to solve.
+
+No hotel clients on my CV. Not pretending otherwise. Demos labeled as demos. Always.
 
 <br/>
 
@@ -28,9 +31,11 @@ I didn't drift into this. I looked at an industry still running on legacy infras
 
 ```typescript
 const michelle = {
-  background:  ['Web', 'Mobile', 'REST API', 'GraphQL', 'Secure Auth'],
+  background:   ['Web', 'Mobile', 'REST API', 'GraphQL', 'Secure Auth', 'AI / RAG'],
+  experience:   '5+ years production systems · Founded AR startup (2020–2023)',
   currentFocus: 'Hospitality Technology',
   status:       'Open to roles, contracts & consulting',
+  locations:    'Dar es Salaam, Tanzania · Remote worldwide',
   honesty:      'Demo projects labeled as demos. Always.',
 }
 ```
@@ -54,6 +59,13 @@ const michelle = {
 ![Supabase](https://img.shields.io/badge/Supabase-100E12?style=flat&logo=supabase&logoColor=C9A96E)
 ![AWS](https://img.shields.io/badge/AWS-100E12?style=flat&logo=amazon-aws&logoColor=C9A96E)
 
+**AI & Orchestration**
+
+![Claude API](https://img.shields.io/badge/Claude_API-100E12?style=flat&logoColor=C9A96E)
+![LangChain](https://img.shields.io/badge/LangChain-100E12?style=flat&logoColor=C9A96E)
+![pgvector](https://img.shields.io/badge/pgvector-100E12?style=flat&logoColor=C9A96E)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-1E1A22?style=flat&logoColor=C9A96E)
+
 **Hospitality Domain (actively learning)**
 
 ![PMS](https://img.shields.io/badge/PMS_Architecture-1E1A22?style=flat&logoColor=C9A96E)
@@ -65,57 +77,86 @@ const michelle = {
 
 ## Hospitality demo projects
 
-> These are learning artifacts built to encounter the domain's real complexity, not to pad a portfolio.
+> Learning artifacts built to encounter the domain's real complexity not to pad a portfolio.
 
-| Project | What I learned | Stack |
-|---|---|---|
-| **Digital Check-in Flow** | Where UI polish ends and PMS integration complexity begins | Next.js · Supabase · PWA · QR auth |
-| **In-Room Ordering API** | F&B workflow, kitchen webhook events, POS integration points | Node.js · PostgreSQL · JWT |
-| **Housekeeping Task App** | How staff UX differs fundamentally from guest-facing design | React Native · Expo · WebSocket |
-| **Mock PMS Integration Layer** | HTNG message formats, reservation sync, rate plan structures | TypeScript · XML parsing · Event queues |
+| # | Project | What I learned | Stack |
+|---|---|---|---|
+| I | **Digital Check-in Flow** | Where UI polish ends and PMS integration complexity begins | Next.js · Supabase · PWA · QR auth |
+| II | **In-Room Ordering API** | F&B workflow, reservation-scoped JWT, kitchen webhook events | Node.js · PostgreSQL · JWT · Webhooks |
+| III | **Housekeeping Task App** | How staff UX differs fundamentally from guest-facing design | React Native · Expo · WebSocket · Offline-first |
+| IV | **Mock PMS Integration Layer** | HTNG message formats, `OTA_HotelResNotifRQ`, reservation sync | TypeScript · XML parsing · Event queues |
+| V | **AI Concierge & Staff Assistant** | Where LLMs earn their place in hotel ops — and where they break | Claude API · RAG · LangChain · pgvector |
 
 <br/>
 
 ## What I bring to hospitality tech
 
 ```
-✦  Security is my baseline not a feature
-   5 years building auth systems for production.
+✦  Security is my baseline — not a feature
+   5 years building auth systems for production. Hospitality handles
+   payments and identity at scale. That transfers immediately.
 
-✦  APIs that downstream teams can actually use
-   I've built integrations that work and consumed ones that don't.
+✦  APIs other teams can actually integrate
+   Hospitality runs on integrations: PMS, POS, OTA, CRM, keylock.
+   I've designed production APIs for downstream consumers and consumed
+   badly documented external ones.
 
 ✦  Mobile-first is not new territory
-   Shipped native apps with offline-first architecture.
+   Guest and staff apps live on phones with unreliable wifi.
+   Shipped native apps with offline-first architecture. Not on my
+   learning list.
 
-✦  Honest about what I don't know yet
-   Domain knowledge I'm actively building you'll always know which is which.
+✦  AI with proper grounding
+   Built RAG pipelines that say "I don't know" instead of hallucinating
+   hotel amenities. The hard part isn't the LLM — it's the retrieval
+   architecture and the failure path.
+
+✦  Honest about gaps
+   I'll tell you exactly what I know and what I'm still learning.
+   You'll never need to guess which is which.
 ```
 
 <br/>
 
+## Engineering Journal
+
+I keep a public research log at [michellevision.com/journal](https://michellevision.com/journal) thoughts, notes, and technical deep-dives from the work of learning this domain.
+
+Recent entries:
+
+- `LOG-001` · [On learning a domain you can't work in yet](https://www.michellevision.com/journal/log-001-learning-domain-from-outside) ⌁ Thought
+- `LOG-002` · [Reservation-scoped JWT auth — design decisions](https://michellevision.com/journal/log-002-jwt-reservation-scoped-auth) ⌁ Research
+- `LOG-003` · [RAG pipeline for the hotel concierge — chunking and retrieval](https://michellevision.com/journal/log-003-rag-pipeline-hotel-concierge) ⌁ Research
+- `LOG-004` · [Why does hotel tech feel like it was designed by people who've never stayed in a hotel?](https://michellevision.com/journal/log-004-hotel-tech-designed-for-demos) ✦ Thought
+- `LOG-005` · [On learning a domain you can't work in yet](https://michellevision.com/journal/log-005-learning-domain-from-outside) ✦ Thought
+
+
 ## Writing
 
-I write about building in and for hospitality technology — published as I learn.
+Essays on building in and for hospitality technology — published as I learn, honest about what I don't know yet.
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned trying to mock a PMS integration from scratch](https://www.michellevision.com/writing/what-i-learned-mocking-pms-integration)
+- [What I learned trying to mock a PMS integration from scratch](https://michellevision.com/writing/what-i-learned-mocking-pms-integration)
+- [Where AI actually helps in hotel operations — and where it breaks](https://michellevision.com/writing/ai-in-hotel-operations)
 - [Why digital check-in keeps failing guests](https://michellevision.com/writing/why-digital-checkin-keeps-failing)
 - [Offline-first architecture for hotel staff apps](https://michellevision.com/writing/offline-first-hotel-staff-apps)
 - [The legacy PMS grip — and where it's actually loosening](https://michellevision.com/writing/legacy-pms-grip)
+- [JWT auth tied to reservation IDs — a pattern worth stealing](https://michellevision.com/writing/jwt-auth-reservation-ids)
 <!-- BLOG-POST-LIST:END -->
+
+→ [All 9 essays at michellevision.com/writing](https://michellevision.com/writing)
 
 <br/>
 
 ## Let's talk
 
-I'm looking for my first real hospitality technology context as a full-time engineer, contractor, or consultant.
+I'm looking for my first real hospitality technology context as a full-time engineer, contractor, or consultant. Remote or relocation.
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/michellevision.com-C9A96E?style=for-the-badge&logoColor=080709)](https://michellevision.com)
 [![Email](https://img.shields.io/badge/michelle@michellevision.com-100E12?style=for-the-badge&logo=gmail&logoColor=C9A96E)](mailto:michelle@michellevision.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-100E12?style=for-the-badge&logo=linkedin&logoColor=C9A96E)](https://linkedin.com/in/michelleluyenavarro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-100E12?style=for-the-badge&logo=linkedin&logoColor=C9A96E)](https://linkedin.com/in/michelleluyenga)
 
 </div>
 
