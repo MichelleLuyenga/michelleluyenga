@@ -9,7 +9,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║   Software Builder  ·  Engineering Hospitality Technology            ║
-║   5 demos  ·  9 essays  ·  Engineering journal  ·  Honest about gaps ║
+║   5 demos  · 15 essays  ·  Engineering journal  ·  Honest about gaps ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -125,10 +125,10 @@ I keep a public research log at [michellevision.com/journal](https://michellevis
 Recent entries:
 
 - `LOG-001` · [On learning a domain you can't work in yet](https://www.michellevision.com/journal/log-001-learning-domain-from-outside) ✦ Thought
-- `LOG-002` · [Reservation-scoped JWT auth design decisions](https://michellevision.com/journal/log-002-jwt-reservation-scoped-auth) ⌁ Research
-- `LOG-003` · [RAG pipeline for the hotel concierge chunking and retrieval](https://michellevision.com/journal/log-003-rag-pipeline-hotel-concierge) ⌁ Research
-- `LOG-004` · [Why does hotel tech feel like it was designed by people who've never stayed in a hotel?](https://michellevision.com/journal/log-004-hotel-tech-designed-for-demos) ✦ Thought
-- `LOG-005` · [On learning a domain you can't work in yet](https://michellevision.com/journal/log-005-learning-domain-from-outside) ✦ Thought
+- `LOG-002` · [Finishing touches on architecture](https://www.michellevision.com/journal/log-002-noting-activities) ◈ Note
+- `LOG-003` · 
+- `LOG-004` · 
+- `LOG-005` · 
 
 
 ## Writing
@@ -144,7 +144,7 @@ Essays on building in and for hospitality technology published as I learn, hones
 - [JWT auth tied to reservation IDs a pattern worth stealing](https://michellevision.com/writing/jwt-auth-reservation-ids)
 <!-- BLOG-POST-LIST:END -->
 
-→ [All 9 essays at michellevision.com/writing](https://michellevision.com/writing)
+→ [All 15 essays at michellevision.com/writing](https://michellevision.com/writing)
 
 <br/>
 
