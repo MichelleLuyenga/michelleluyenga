@@ -126,7 +126,7 @@ Recent entries:
 
 - `LOG-001` · [On learning a domain you can't work in yet](https://www.michellevision.com/journal/log-001-learning-domain-from-outside) ✦ Thought
 - `LOG-002` · [Finishing touches on architecture](https://www.michellevision.com/journal/log-002-noting-activities) ◈ Note
-- `LOG-003` · 
+- `LOG-003` · [Research on integration with Mews and Opera PMS](https://www.michellevision.com/journal/log-003-research-on-integration-with-mews-and-opera-pms) ⌁ Research
 - `LOG-004` · 
 - `LOG-005` · 
 
