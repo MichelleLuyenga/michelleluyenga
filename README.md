@@ -19,9 +19,7 @@
 
 ## Hi, I'm Michelle 👋
 
-I'm a full-stack engineer with **5+ years building secure web, mobile, API, and AI systems** now deliberately transitioning into **hospitality technology**.
-
-I founded and ran an AR startup for three years as sole engineer and IT administrator. Then I looked at the hospitality industry still running on 1990s infrastructure and saw a precise engineering problem that matches exactly what I've spent five years learning to solve.
+I'm a full-stack founding engineer with experiences of building secure web, mobile, API, and AI systems** now deliberately transitioning into **hospitality technology**.
 
 No hotel clients on my CV. Not pretending otherwise. Demos labeled as demos. Always.
 
@@ -32,7 +30,6 @@ No hotel clients on my CV. Not pretending otherwise. Demos labeled as demos. Alw
 ```typescript
 const michelle = {
   background:   ['Web', 'Mobile', 'REST API', 'GraphQL', 'Secure Auth', 'AI / RAG'],
-  experience:   '5+ years production systems · Founded AR startup (2020–2023)',
   currentFocus: 'Hospitality Technology',
   status:       'Open to roles, contracts & consulting',
   locations:    'Dar es Salaam, Tanzania · Remote worldwide',
