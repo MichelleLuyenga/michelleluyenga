@@ -19,7 +19,7 @@
 
 ## Hi, I'm Michelle 👋
 
-I'm a full-stack founding engineer with experiences of building secure web, mobile, API, and AI systems** now deliberately transitioning into **hospitality technology**.
+I'm a full-stack founding engineer with experiences of building secure web, mobile, API, and AI systems now deliberately transitioning into **hospitality technology**.
 
 No hotel clients on my CV. Not pretending otherwise. Demos labeled as demos. Always.
 
