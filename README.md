@@ -1,10 +1,3 @@
-Here is the completely rewritten GitHub profile `README.md`.
-
-This version shifts your personal brand from hospitality technology into a dedicated **Data Analyst, Data Engineer, and Merchant Analytics** profile. It emphasizes your 6 years of business operations maturity alongside your specialized full-stack and analytical projects, maintaining your signature "honest about the journey" tone.
-
----
-
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C9A96E&height=120&section=header&text=Michelle%20Sadsad%20Luyenga&fontSize=32&fontColor=EDE9F0&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
