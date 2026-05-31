@@ -22,9 +22,9 @@
 
 ## Hi, I'm Michelle 👋
 
-I am a performance-driven IT Professional combining a formal technical foundation with 6 years of business operations management[cite: 1]. I specialize in building end-to-end data pipelines, optimizing relational database architectures, and deploying business intelligence tools that turn complex backend tables into commercial value[cite: 1].
+I am a performance-driven IT Professional combining a formal technical foundation with 6 years of business operations management. I specialize in building end-to-end data pipelines, optimizing relational database architectures, and deploying business intelligence tools that turn complex backend tables into commercial value.
 
-I spent over half a decade driving digital transformation and financial workflows inside an operational leadership role[cite: 1]. Now, I'm bridging that real-world commercial maturity back into dedicated data and engineering roles[cite: 1].
+I spent over half a decade driving digital transformation and financial workflows inside an operational leadership role. Now, I'm bridging that real-world commercial maturity back into dedicated data and engineering roles.
 
 <br/>
 
