@@ -1,10 +1,3 @@
-Here is a beautifully streamlined, high-density **GitHub Profile README** markdown template. It cuts out the noise and completely reframes your profile around your unified **Developer** identity, highlighting your academic foundation and your projects as real, production-ready software systems.
-
----
-
-### Your New GitHub Profile `README.md`
-
-```markdown
 # Hi, I'm Michelle Luyenga 👋
 
 ### Developer 
