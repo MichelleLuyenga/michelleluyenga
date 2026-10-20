@@ -37,5 +37,5 @@
 ### 📫 Connect With Me
 
 - 🌐 **Portfolio**: [michellevision.com](https://michellevision.com)
-- 💼 **LinkedIn**: [linkedin.com/in/michelleluyenga](https://linkedin.com/michelleluyenga)
+- 💼 **LinkedIn**: [linkedin.com/in/michelleluyenga](https://linkedin.com/in/michelleluyenga)
 - 📧 **Direct Mail**: [michelle1engineer@gmail.com](mailto:michelle1engineer@gmail.com)
