@@ -1,58 +1,40 @@
-# Hi, I'm Michelle Luyenga 👋
+# Hi there, I'm Michelle Sadsad Luyenga 👋
+### **MarTech Developer & Growth Engineer** | *Full-Stack Web • Analytics Pipelines • AI Workflows*
 
-### Developer 
-Building high-performance web applications, automated data products, and full-stack software architectures.
-
----
-
-## 🛠️ Technical Ecosystem
-
-```text
-CORE_STACK_INGESTION:
-  ├── Frontend:  TypeScript • Next.js • Astro • JavaScript
-  ├── Backend:   Python • Pandas • Node.js • APIs
-  ├── Database:  SQL • PostgreSQL • Supabase • Relational Modeling
-  └── Systems:   Linux / Ubuntu Development Environment
-
-```
+// SYSTEM_STATUS: OPERATIONAL
+// CORE_ROUTINE: Building High-Performance Web Products, Conversion Engines & AI IntegrationsI am a developer with a formal BSc in Information Technology and 5+ years of experience bridging web engineering and digital growth. I specialize in building lightning-fast web applications (Astro / Next.js), setting up server-side conversion analytics (GTM / GA4), and integrating automated AI lead pipelines.
 
 ---
 
-## 💻 Featured Deployments & Systems Architecture
+### 🛠️ Tech Matrix & Capabilities┌────────────────────────┬──────────────────────────────────────────────────────────────┐
+│ DOMAIN                 │ TOOLKIT & TECHNOLOGIES                                       │
+├────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ Frontend & Performance │ TypeScript / Next.js / Astro / Tailwind CSS / Figma UI/UX    │
+│ MarTech & Analytics    │ Google Tag Manager (GTM) / GA4 / Tech SEO / CMS / Webhooks   │
+│ Backend & Data         │ SQL / PostgreSQL / Supabase / Node.js / REST & GraphQL APIs  │
+│ AI & Automation        │ OpenAI & Anthropic APIs / RAG Chatbots / Lead Router Hooks   │
+└────────────────────────┴──────────────────────────────────────────────────────────────┘
+---
 
-### 🛡️ [Multi-Channel Transactional Processing Workspace](https://www.google.com/search?q=https://michellevision.com/demo)
+### 🚀 Featured Production Work & Demos
 
-Engineered a production-grade transactional monitoring application that structures and processes multi-channel merchant sales logs.
-
-* Designed and optimized relational database schemas in PostgreSQL to track velocity and prevent financial leakage.
-* Developed backend aggregation routines optimized for high throughput and sub-second execution speeds.
-* **Stack:** Next.js, Astro, PostgreSQL, API Integration Layers
-
-### 🤖 [Automated Customer Sentiment Processing Engine](https://www.google.com/search?q=https://michellevision.com/demo)
-
-Constructed a serverless automation pipeline that ingests, cleans, and analyzes unstructured textual user feedback records.
-
-* Built background automation scripts in Python to run categorical sentiment mapping natively.
-* Configured real-time data routing to surface retention risk flags directly to cloud management endpoints.
-* **Stack:** Python, Pandas, Supabase Cloud Backend, Automated LLM Routers
+- 🎯 **[Multi-Channel Revenue & Attribution Engine](https://michellevision.com/demo)** — Aggregate multi-channel ad touchpoints and transaction logs to calculate conversion velocity and eliminate revenue leaks.
+- 🤖 **[AI Lead Scoring & Intent Router](https://michellevision.com/demo)** — Serverless automation pipeline evaluating buyer intent via LLM classification and routing high-priority leads to CRM webhooks.
+- ⚡ **[High-Performance Astro Engine](https://michellevision.com)** — Zero-JS island layout achieving **100/100 Core Web Vitals** scores across LCP, CLS, and FID.
 
 ---
 
-## 📝 Systems Engineering Log
+### 📈 GitHub Stats
 
-I write technical deep-dives on serverless application development, relational schema optimization, database query tuning, and building robust software architectures.
-
-👉 **Read the latest metrics at:** [michellevision.com/blog](https://www.google.com/search?q=https://michellevision.com/blog)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MichelleLuyenga&show_icons=true&theme=dark&hide_border=true&bg_color=090A0C&title_color=C9A96E&text_color=EDE9F0&icon_color=C9A96E" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleLuyenga&layout=compact&theme=dark&hide_border=true&bg_color=090A0C&title_color=C9A96E&text_color=EDE9F0" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-## 📡 Terminal Connection
+### 📫 Connect With Me
 
-* 💼 **Profile:** BSc in Information Technology with 5+ years of end-to-end system development experience.
-* 📧 **Direct Pipeline:** michelle1engineer@gmail.com
-
-
-### How to Apply This to Your Profile:
-1. Go to your GitHub account and create a new repository named **exactly** matching your username (e.g., if your username is `michelle-dev`, name the repo `michelle-dev`). This is your GitHub special repository.
-2. Make sure it is set to **Public** and check the box to **Add a README file**
-3. Paste the markdown code block above right into that `README.md` file, commit the changes, and it will immediately display on your main GitHub profile overview page!
+- 🌐 **Portfolio**: [michellevision.com](https://michellevision.com)
+- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/michelleluyenga)
+- 📧 **Direct Mail**: [michelle1engineer@gmail.com](mailto:michelle1engineer@gmail.com)
