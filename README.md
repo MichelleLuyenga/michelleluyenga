@@ -6,7 +6,8 @@
 
 ---
 
-### 🛠️ Tech Matrix & Capabilities┌────────────────────────┬──────────────────────────────────────────────────────────────┐
+### 🛠️ Tech Matrix & Capabilities
+┌────────────────────────┬────────────────────────────────────────────────────────┐
 │ DOMAIN                 │ TOOLKIT & TECHNOLOGIES                                       │
 ├────────────────────────┼──────────────────────────────────────────────────────────────┤
 │ Frontend & Performance │ TypeScript / Next.js / Astro / Tailwind CSS / Figma UI/UX    │
@@ -36,5 +37,5 @@
 ### 📫 Connect With Me
 
 - 🌐 **Portfolio**: [michellevision.com](https://michellevision.com)
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/michelleluyenga)
+- 💼 **LinkedIn**: [linkedin.com/in/michelleluyenga](https://linkedin.com/michelleluyenga)
 - 📧 **Direct Mail**: [michelle1engineer@gmail.com](mailto:michelle1engineer@gmail.com)
