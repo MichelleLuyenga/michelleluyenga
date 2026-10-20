@@ -7,14 +7,14 @@
 ---
 
 ### 🛠️ Tech Matrix & Capabilities
-┌────────────────────────┬────────────────────────────────────────────────────────┐
-│ DOMAIN                 │ TOOLKIT & TECHNOLOGIES                                       │
-├────────────────────────┼──────────────────────────────────────────────────────────────┤
-│ Frontend & Performance │ TypeScript / Next.js / Astro / Tailwind CSS / Figma UI/UX    │
-│ MarTech & Analytics    │ Google Tag Manager (GTM) / GA4 / Tech SEO / CMS / Webhooks   │
-│ Backend & Data         │ SQL / PostgreSQL / Supabase / Node.js / REST & GraphQL APIs  │
-│ AI & Automation        │ OpenAI & Anthropic APIs / RAG Chatbots / Lead Router Hooks   │
-└────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+| Domain | Toolkit & Technologies |
+| :--- | :--- |
+| **Frontend & Performance** | TypeScript, Next.js, Astro, Tailwind CSS, Figma UI/UX |
+| **MarTech & Analytics** | Google Tag Manager (GTM), GA4, Technical SEO, CMS, Webhooks |
+| **Backend & Data** | SQL, PostgreSQL, Supabase, Node.js, REST & GraphQL APIs |
+| **AI & Automation** | OpenAI & Anthropic APIs, RAG Chatbots, Lead Router Hooks |
+
 ---
 
 ### 🚀 Featured Production Work & Demos
