@@ -1,41 +1,56 @@
-# Hi there, I'm Michelle Sadsad Luyenga 👋
-### **MarTech Developer & Growth Engineer** | *Full-Stack Web • Analytics Pipelines • AI Workflows*
+# Hi, I'm Michelle Sadsad Luyenga
 
-// SYSTEM_STATUS: OPERATIONAL
-// CORE_ROUTINE: Building High-Performance Web Products, Conversion Engines & AI IntegrationsI am a developer with a formal BSc in Information Technology and 5+ years of experience bridging web engineering and digital growth. I specialize in building lightning-fast web applications (Astro / Next.js), setting up server-side conversion analytics (GTM / GA4), and integrating automated AI lead pipelines.
+**Astro & MarTech integration engineer.** I move slow legacy websites onto Astro, then connect them to the marketing and sales tools a business already runs on, so leads, orders, and campaign data flow between systems without manual exports.
 
----
-
-### 🛠️ Tech Matrix & Capabilities
-
-| Domain | Toolkit & Technologies |
-| :--- | :--- |
-| **Frontend & Performance** | TypeScript, Next.js, Astro, Tailwind CSS, Figma UI/UX |
-| **MarTech & Analytics** | Google Tag Manager (GTM), GA4, Technical SEO, CMS, Webhooks |
-| **Backend & Data** | SQL, PostgreSQL, Supabase, Node.js, REST & GraphQL APIs |
-| **AI & Automation** | OpenAI & Anthropic APIs, RAG Chatbots, Lead Router Hooks |
+[Website](https://www.michellevision.com) · [Services](https://www.michellevision.com/services) · [Case studies](https://www.michellevision.com/cases) · [Start a project](https://www.michellevision.com/contact?stream=consultation)
 
 ---
 
-### 🚀 Featured Production Work & Demos
+## What I do
 
-- 🎯 **[Multi-Channel Revenue & Attribution Engine](https://michellevision.com/demo)** — Aggregate multi-channel ad touchpoints and transaction logs to calculate conversion velocity and eliminate revenue leaks.
-- 🤖 **[AI Lead Scoring & Intent Router](https://michellevision.com/demo)** — Serverless automation pipeline evaluating buyer intent via LLM classification and routing high-priority leads to CRM webhooks.
-- ⚡ **[High-Performance Astro Engine](https://michellevision.com)** — Zero-JS island layout achieving **100/100 Core Web Vitals** scores across LCP, CLS, and FID.
+- **Migrate legacy sites to Astro:** headless CMS setup, ETL data pipelines, URL redirects that protect search rankings, and zero-downtime deployment.
+- **Connect the marketing stack:** e-commerce, CMS, CDP, CRM, analytics, marketing automation, advertising, and workflow tools wired into one system.
+- **Build custom dashboards:** secure, role-based internal dashboards that pull data from CRMs, ERPs, and BI tools.
+- **Ship fast, measurable sites:** performance-first builds with a planned analytics event schema and consent-aware tracking.
 
----
+## Integrations I work with
 
-### 📈 GitHub Stats
+| Area | Tools |
+| --- | --- |
+| E-commerce | Shopify Storefront API, Medusa, Snipcart, Stripe, BigCommerce |
+| CMS | Sanity, Contentful, Strapi, Storyblok, headless WordPress |
+| CDP | Segment, RudderStack, mParticle, Hightouch, Census |
+| CRM | HubSpot, Salesforce, Pipedrive, Zoho CRM, Attio |
+| Analytics & BI | GA4, PostHog, Mixpanel, Plausible, Looker Studio, Tableau, BigQuery |
+| Marketing automation | Klaviyo, HubSpot Marketing, ActiveCampaign, Customer.io, Mailchimp |
+| Advertising | Google Ads, Meta Conversions API, LinkedIn Ads, TikTok Events API, server-side GTM |
+| Workflow | n8n, Make, Zapier, Slack, Airtable, Notion |
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichelleLuyenga&show_icons=true&theme=dark&hide_border=true&bg_color=090A0C&title_color=C9A96E&text_color=EDE9F0&icon_color=C9A96E" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleLuyenga&layout=compact&theme=dark&hide_border=true&bg_color=090A0C&title_color=C9A96E&text_color=EDE9F0" alt="Top Languages" width="48%" />
-</p>
+## Core tech
 
----
+![Astro](https://img.shields.io/badge/Astro-0D0E11?style=for-the-badge&logo=astro&logoColor=C9A96E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-### 📫 Connect With Me
+## Selected work
 
-- 🌐 **Portfolio**: [michellevision.com](https://michellevision.com)
-- 💼 **LinkedIn**: [linkedin.com/in/michelleluyenga](https://linkedin.com/in/michelleluyenga)
-- 📧 **Direct Mail**: [michelle1engineer@gmail.com](mailto:michelle1engineer@gmail.com)
+- **Legacy monolith to headless Astro:** migrated a high-traffic CMS and relational database with no data loss and zero-downtime deployment.
+- **Unified company dashboard:** webhook and API connectors linking CRM and ERP platforms into one executive view.
+- **Headless storefront with a CDP:** Astro storefront feeding a single customer event stream to email and SMS automation.
+- **Server-side tracking and ad attribution:** conversions sent to ad platforms through server-side APIs, with CRM deal stages returned as offline conversions.
+
+Details on the [case studies page](https://www.michellevision.com/cases).
+
+## Coming soon: Astro themes
+
+Modular themes with marketing integrations built in: blog, technical documentation, video portal, Edu & SaaS, headless storefront, and campaign/lead-gen. [Preview the roadmap](https://www.michellevision.com/demo).
+
+## Work with me
+
+I take on fixed-scope projects, from a single integration to a full design-build-host engagement.
+
+- Packages and add-on modules: [michellevision.com/services](https://www.michellevision.com/services)
+- Scope a project: [michellevision.com/contact](https://www.michellevision.com/contact?stream=consultation)
+- LinkedIn: [Michelleluyenga] (https://www.linkedin.com/in/michelleluyenga/)
