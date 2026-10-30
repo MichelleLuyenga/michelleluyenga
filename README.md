@@ -53,4 +53,4 @@ I take on fixed-scope projects, from a single integration to a full design-build
 
 - Packages and add-on modules: [michellevision.com/services](https://www.michellevision.com/services)
 - Scope a project: [michellevision.com/contact](https://www.michellevision.com/contact?stream=consultation)
-- LinkedIn: [Michelleluyenga] (https://www.linkedin.com/in/michelleluyenga/)
+- LinkedIn: [Michelleluyenga](https://www.linkedin.com/in/michelleluyenga/)
