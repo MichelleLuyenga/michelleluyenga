@@ -1,24 +1,38 @@
 # Hi, I'm Michelle Sadsad Luyenga
 
-**Astro & MarTech integration engineer.** I move slow legacy websites onto Astro, then connect them to the marketing and sales tools a business already runs on, so leads, orders, and campaign data flow between systems without manual exports.
+**Marketing Web Developer.** I build and fix marketing websites on **Astro, WordPress, Webflow, and Next.js**, then connect them to the CRM, customer data, analytics, email automation, and ad tools a business already uses, so leads, orders, and campaign data flow without manual exports.
 
-[Website](https://www.michellevision.com) · [Services](https://www.michellevision.com/services) · [Case studies](https://www.michellevision.com/cases) · [Start a project](https://www.michellevision.com/contact?stream=consultation)
+**Open to:** client projects and full-time marketing web development roles.
+
+[Website](https://www.michellevision.com) · [Services](https://www.michellevision.com/services) · [Platform guide](https://www.michellevision.com/platforms) · [Case studies](https://www.michellevision.com/cases) · [Start a project](https://www.michellevision.com/contact?stream=consultation)
 
 ---
 
 ## What I do
 
-- **Migrate legacy sites to Astro:** headless CMS setup, ETL data pipelines, URL redirects that protect search rankings, and zero-downtime deployment.
+- **Build fast marketing sites:** performance-first builds with a planned analytics event schema and consent-aware tracking.
+- **Optimize existing sites:** speed, Core Web Vitals, and tracking fixes for WordPress, WooCommerce, and Webflow, without a full rebuild.
+- **Migrate legacy sites:** headless CMS setup, ETL data pipelines, and URL redirects that protect search rankings.
 - **Connect the marketing stack:** e-commerce, CMS, CDP, CRM, analytics, marketing automation, advertising, and workflow tools wired into one system.
-- **Build custom dashboards:** secure, role-based internal dashboards that pull data from CRMs, ERPs, and BI tools.
-- **Ship fast, measurable sites:** performance-first builds with a planned analytics event schema and consent-aware tracking.
+- **Build internal dashboards:** secure, role-based views that pull data from CRMs, ERPs, and BI tools.
 
-## Integrations I work with
+## Platforms
+
+| Platform | How I use it |
+| --- | --- |
+| **Astro** (flagship) | New marketing sites and migrations where speed and SEO matter most |
+| **WordPress / WooCommerce** | Optimizing and integrating sites a team already runs, custom PHP theme and plugin work, or going headless with an Astro front end |
+| **Webflow** | Marketing sites that non-developers edit, with custom code and automation wiring |
+| **Next.js** (when needed) | Headless storefronts, personalization, and app-like experiences |
+
+Not sure which fits? Read the [platform guide](https://www.michellevision.com/platforms).
+
+## Integrations
 
 | Area | Tools |
 | --- | --- |
-| E-commerce | Shopify Storefront API, Medusa, Snipcart, Stripe, BigCommerce |
-| CMS | Sanity, Contentful, Strapi, Storyblok, headless WordPress |
+| E-commerce | Shopify Storefront API, Medusa, Snipcart, Stripe, WooCommerce |
+| CMS | WordPress, Webflow CMS, Sanity, Contentful, Strapi |
 | CDP | Segment, RudderStack, mParticle, Hightouch, Census |
 | CRM | HubSpot, Salesforce, Pipedrive, Zoho CRM, Attio |
 | Analytics & BI | GA4, PostHog, Mixpanel, Plausible, Looker Studio, Tableau, BigQuery |
@@ -29,28 +43,33 @@
 ## Core tech
 
 ![Astro](https://img.shields.io/badge/Astro-0D0E11?style=for-the-badge&logo=astro&logoColor=C9A96E)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## Selected work
+## Completed work
 
 - **Legacy monolith to headless Astro:** migrated a high-traffic CMS and relational database with no data loss and zero-downtime deployment.
 - **Unified company dashboard:** webhook and API connectors linking CRM and ERP platforms into one executive view.
-- **Headless storefront with a CDP:** Astro storefront feeding a single customer event stream to email and SMS automation.
-- **Server-side tracking and ad attribution:** conversions sent to ad platforms through server-side APIs, with CRM deal stages returned as offline conversions.
 
-Details on the [case studies page](https://www.michellevision.com/cases).
+## In progress: sample builds on all four platforms (launching November 2026)
 
-## Coming soon: Astro themes
+One shared MarTech setup (GA4 and server-side GTM, CRM-synced forms, automation, and an n8n alert workflow) built on each platform so the results can be compared:
 
-Modular themes with marketing integrations built in: blog, technical documentation, video portal, Edu & SaaS, headless storefront, and campaign/lead-gen. [Preview the roadmap](https://www.michellevision.com/demo).
+- **Astro:** lead-gen marketing site
+- **WordPress:** WooCommerce speed and tracking optimization, with before-and-after numbers
+- **Webflow:** CMS-driven marketing site
+- **Next.js:** headless storefront with CDP and server-side ad conversions
+
+Follow along on the [case studies page](https://www.michellevision.com/cases). Source for the Astro and Next.js samples will be published in this profile when they launch.
 
 ## Work with me
 
-I take on fixed-scope projects, from a single integration to a full design-build-host engagement.
-
 - Packages and add-on modules: [michellevision.com/services](https://www.michellevision.com/services)
 - Scope a project: [michellevision.com/contact](https://www.michellevision.com/contact?stream=consultation)
-- LinkedIn: [Michelleluyenga](https://www.linkedin.com/in/michelleluyenga/)
+- Hiring? Use the same contact form and choose "Recruiter or Hiring Inquiry".
+- LinkedIn: [Michelle Luyenga](https://www.linkedin.com/in/michelleluyenga)
