@@ -72,4 +72,4 @@ Follow along on the [case studies page](https://www.michellevision.com/cases). S
 - Packages and add-on modules: [michellevision.com/services](https://www.michellevision.com/services)
 - Scope a project: [michellevision.com/contact](https://www.michellevision.com/contact?stream=consultation)
 - Hiring? Use the same contact form and choose "Recruiter or Hiring Inquiry".
-- LinkedIn: [Michelle Luyenga](https://www.linkedin.com/in/michelleluyenga)
+- LinkedIn: [linkedin.com/in/michelleluyenga](https://www.linkedin.com/in/michelleluyenga)
