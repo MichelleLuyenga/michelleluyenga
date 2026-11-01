@@ -56,7 +56,7 @@ Not sure which fits? Read the [platform guide](https://www.michellevision.com/pl
 - **Legacy monolith to headless Astro:** migrated a high-traffic CMS and relational database with no data loss and zero-downtime deployment.
 - **Unified company dashboard:** webhook and API connectors linking CRM and ERP platforms into one executive view.
 
-## In progress: sample builds on all four platforms (launching November 2026)
+## In progress: sample builds on all four platforms (launching early 2027)
 
 One shared MarTech setup (GA4 and server-side GTM, CRM-synced forms, automation, and an n8n alert workflow) built on each platform so the results can be compared:
 
