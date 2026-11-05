@@ -51,12 +51,16 @@ Not sure which fits? Read the [platform guide](https://www.michellevision.com/pl
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## Completed work
+## Portfolio case studies
 
-- **Legacy monolith to headless Astro:** migrated a high-traffic CMS and relational database with no data loss and zero-downtime deployment.
-- **Unified company dashboard:** webhook and API connectors linking CRM and ERP platforms into one executive view.
+Two case studies show how I approach the work. They are portfolio pieces, not client engagements, so they describe goals and process rather than measured results.
 
-## In progress: sample builds on all four platforms (launching early 2027)
+- **Legacy CMS to headless Astro:** audit, ETL data migration, and redirect planning.
+- **Unified company dashboard:** webhook and API connectors linking CRM, ERP, and BI tools into one view.
+
+My own site, michellevision.com, is built on Astro with technical SEO, GA4, and form handling.
+
+## In progress: sample builds on all four platforms (launching Early 2027)
 
 One shared MarTech setup (GA4 and server-side GTM, CRM-synced forms, automation, and an n8n alert workflow) built on each platform so the results can be compared:
 
@@ -66,6 +70,11 @@ One shared MarTech setup (GA4 and server-side GTM, CRM-synced forms, automation,
 - **Next.js:** headless storefront with CDP and server-side ad conversions
 
 Follow along on the [case studies page](https://www.michellevision.com/cases). Source for the Astro and Next.js samples will be published in this profile when they launch.
+
+## Writing
+
+- [Blog](https://www.michellevision.com/blog): notes on web performance and SEO, MarTech and analytics, and web development platforms.
+- [Learning archive](https://michelleluyenga.github.io/learning-archive): my earlier posts across other topics, kept as a record of how I learned.
 
 ## Work with me
 
