@@ -30,14 +30,14 @@ Not sure which fits? Read the [platform guide](https://www.michellevision.com/pl
 
 | Area | Tools |
 | --- | --- |
-| E-commerce | Shopify Storefront API, Medusa, Snipcart, Stripe, WooCommerce |
-| CMS | WordPress, Webflow CMS, Sanity, Contentful, Strapi |
-| CDP | Segment, RudderStack, mParticle, Hightouch, Census |
-| CRM | HubSpot, Salesforce, Pipedrive, Zoho CRM, Attio |
-| Analytics & BI | GA4, PostHog, Mixpanel, Plausible, Looker Studio, Tableau, BigQuery |
-| Marketing automation | Klaviyo, HubSpot Marketing, ActiveCampaign, Customer.io, Mailchimp |
-| Advertising | Google Ads, Meta Conversions API, LinkedIn Ads, TikTok Events API, server-side GTM |
-| Workflow | n8n, Make, Zapier, Slack, Airtable, Notion |
+| E-commerce | Shopify, WooCommerce, Stripe |
+| CMS | Sanity (with Astro), WordPress, Webflow CMS |
+| CDP | Segment, RudderStack |
+| CRM | HubSpot, Salesforce |
+| Analytics | GA4, Google Tag Manager, Looker Studio |
+| Marketing automation | HubSpot Marketing, Klaviyo, Mailchimp |
+| Advertising | Google Ads, Meta Conversions API |
+| Workflow | Make, n8n, Zapier |
 
 ## Core tech
 
