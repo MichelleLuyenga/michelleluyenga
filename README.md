@@ -1,6 +1,6 @@
 # Hi, I'm Michelle Sadsad Luyenga
 
-**Marketing Web Developer.** I build and fix marketing websites on **Astro, WordPress, Webflow, and Next.js**, then connect them to the CRM, customer data, analytics, email automation, and ad tools a business already uses, so leads, orders, and campaign data flow without manual exports.
+**Marketing Web Developer.** I build and fix marketing websites on **Astro, WordPress, and Webflow**, then connect them to the CRM, customer data, analytics, email automation, and ad tools a business already uses, so leads, orders, and campaign data flow without manual exports.
 
 **Open to:** client projects and full-time marketing web development roles.
 
@@ -23,7 +23,6 @@
 | **Astro** (flagship) | New marketing sites and migrations where speed and SEO matter most |
 | **WordPress / WooCommerce** | Optimizing and integrating sites a team already runs, custom PHP theme and plugin work, or going headless with an Astro front end |
 | **Webflow** | Marketing sites that non-developers edit, with custom code and automation wiring |
-| **Next.js** (when needed) | Headless storefronts, personalization, and app-like experiences |
 
 Not sure which fits? Read the [platform guide](https://www.michellevision.com/platforms).
 
@@ -45,7 +44,6 @@ Not sure which fits? Read the [platform guide](https://www.michellevision.com/pl
 ![Astro](https://img.shields.io/badge/Astro-0D0E11?style=for-the-badge&logo=astro&logoColor=C9A96E)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -60,16 +58,15 @@ Two case studies show how I approach the work. They are portfolio pieces, not cl
 
 My own site, michellevision.com, is built on Astro with technical SEO, GA4, and form handling.
 
-## In progress: sample builds on all four platforms (launching Early 2027)
+## In progress: sample builds on all three platforms (launching Q1 2027)
 
 One shared MarTech setup (GA4 and server-side GTM, CRM-synced forms, automation, and an n8n alert workflow) built on each platform so the results can be compared:
 
 - **Astro:** lead-gen marketing site
 - **WordPress:** WooCommerce speed and tracking optimization, with before-and-after numbers
 - **Webflow:** CMS-driven marketing site
-- **Next.js:** headless storefront with CDP and server-side ad conversions
 
-Follow along on the [case studies page](https://www.michellevision.com/cases). Source for the Astro and Next.js samples will be published in this profile when they launch.
+Follow along on the [case studies page](https://www.michellevision.com/cases). Source for the Astro sample will be published in this profile when they launch.
 
 ## Writing
 
