@@ -1,6 +1,6 @@
 # Hi, I'm Michelle Sadsad Luyenga
 
-**Marketing Web Developer.** I build and fix marketing websites on **Astro, WordPress, and Webflow**, then connect them to the CRM, customer data, analytics, email automation, and ad tools a business already uses, so leads, orders, and campaign data flow without manual exports.
+**Marketing Web Developer.** I build and fix marketing websites on **Astro and Next.js**, then connect them to the CRM, customer data, analytics, email automation, and ad tools a business already uses, so leads, orders, and campaign data flow without manual exports.
 
 **Open to:** client projects and full-time marketing web development roles.
 
@@ -21,8 +21,7 @@
 | Platform | How I use it |
 | --- | --- |
 | **Astro** (flagship) | New marketing sites and migrations where speed and SEO matter most |
-| **WordPress / WooCommerce** | Optimizing and integrating sites a team already runs, custom PHP theme and plugin work, or going headless with an Astro front end |
-| **Webflow** | Marketing sites that non-developers edit, with custom code and automation wiring |
+| **Next.js** (when needed) | Headless storefronts, personalization, and app-like experiences |
 
 Not sure which fits? Read the [platform guide](https://www.michellevision.com/platforms).
 
@@ -63,8 +62,7 @@ My own site, michellevision.com, is built on Astro with technical SEO, GA4, and 
 One shared MarTech setup (GA4 and server-side GTM, CRM-synced forms, automation, and an n8n alert workflow) built on each platform so the results can be compared:
 
 - **Astro:** lead-gen marketing site
-- **WordPress:** WooCommerce speed and tracking optimization, with before-and-after numbers
-- **Webflow:** CMS-driven marketing site
+- **Next.js:** headless storefront with CDP and server-side ad conversions
 
 Follow along on the [case studies page](https://www.michellevision.com/cases). Source for the Astro sample will be published in this profile when they launch.
 
