@@ -71,7 +71,7 @@ Follow along on the [case studies page](https://www.michellevision.com/cases). S
 ## Writing
 
 - [Blog](https://www.michellevision.com/blog): notes on web performance and SEO, MarTech and analytics, and web development platforms.
-- [Learning archive](https://michelleluyenga.github.io/learning-archive): my earlier posts across other topics, kept as a record of how I learned.
+- [Learning archive](https://michelleluyenga.github.io/learning): my earlier posts across other topics, kept as a record of how I learned.
 
 ## Work with me
 
