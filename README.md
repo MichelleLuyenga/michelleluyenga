@@ -43,7 +43,6 @@ Not sure which fits? Read the [platform guide](https://www.michellevision.com/pl
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
@@ -56,7 +55,7 @@ Two case studies show how I approach the work. They are portfolio pieces, not cl
 
 My own site, michellevision.com, is built on Astro with technical SEO, GA4, and form handling.
 
-## In progress: sample builds on all three platforms (launching Q1 2027)
+## In progress: sample builds on both platforms (launching Q1 2027)
 
 One shared MarTech setup (GA4 and server-side GTM, CRM-synced forms, automation, and an n8n alert workflow) built on each platform so the results can be compared:
 
