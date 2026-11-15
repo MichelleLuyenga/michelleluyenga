@@ -11,7 +11,6 @@
 ## What I do
 
 - **Build fast marketing sites:** performance-first builds with a planned analytics event schema and consent-aware tracking.
-- **Optimize existing sites:** speed, Core Web Vitals, and tracking fixes for WordPress, WooCommerce, and Webflow, without a full rebuild.
 - **Migrate legacy sites:** headless CMS setup, ETL data pipelines, and URL redirects that protect search rankings.
 - **Connect the marketing stack:** e-commerce, CMS, CDP, CRM, analytics, marketing automation, advertising, and workflow tools wired into one system.
 - **Build internal dashboards:** secure, role-based views that pull data from CRMs, ERPs, and BI tools.
