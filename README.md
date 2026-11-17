@@ -1,6 +1,6 @@
 # Hi, I'm Michelle Sadsad Luyenga
 
-**Marketing Web Developer.** I build and fix marketing websites on **Astro and Next.js**, then connect them to the CRM, customer data, analytics, email automation, and ad tools a business already uses, so leads, orders, and campaign data flow without manual exports.
+**Marketing Web Developer.** I build marketing websites on **Astro and Next.js** with a headless CMS (**WordPress, including WooCommerce, or Webflow**), then connect them to the CRM, customer data, analytics, email automation, and ad tools a business already uses, so leads, orders, and campaign data flow without manual exports.
 
 **Open to:** client projects and full-time marketing web development roles.
 
@@ -10,17 +10,20 @@
 
 ## What I do
 
-- **Build fast marketing sites:** performance-first builds with a planned analytics event schema and consent-aware tracking.
-- **Migrate legacy sites:** headless CMS setup, ETL data pipelines, and URL redirects that protect search rankings.
-- **Connect the marketing stack:** e-commerce, CMS, CDP, CRM, analytics, marketing automation, advertising, and workflow tools wired into one system.
+- **Build fast marketing sites:** performance-first Astro or Next.js builds with a planned analytics event schema and consent-aware tracking.
+- **Go headless:** connect a WordPress (with WooCommerce) or Webflow CMS to a fast front end, so editors keep the dashboard they know.
+- **Migrate legacy sites:** content and data migration, plus URL redirects that protect search rankings.
+- **Connect the marketing stack:** e-commerce, CMS, CRM, analytics, marketing automation, advertising, and workflow tools wired into one system.
 - **Build internal dashboards:** secure, role-based views that pull data from CRMs, ERPs, and BI tools.
 
 ## Platforms
 
-| Platform | How I use it |
+| Layer | How I use it |
 | --- | --- |
-| **Astro** (flagship) | New marketing sites and migrations where speed and SEO matter most |
-| **Next.js** (when needed) | Headless storefronts, personalization, and app-like experiences |
+| **Astro** | Content-heavy marketing sites and blogs where speed and SEO matter most |
+| **Next.js** | Online stores, personalized pages, and app-like experiences |
+| **Headless WordPress (with WooCommerce)** | Editors keep WordPress, while the public site runs on Astro or Next.js and WooCommerce powers products and checkout |
+| **Headless Webflow CMS** | Editors keep Webflow's CMS, while the front end is built in code and connected through the API |
 
 Not sure which fits? Read the [platform guide](https://www.michellevision.com/platforms).
 
@@ -28,8 +31,8 @@ Not sure which fits? Read the [platform guide](https://www.michellevision.com/pl
 
 | Area | Tools |
 | --- | --- |
-| E-commerce | Shopify, WooCommerce, Stripe |
-| CMS | Sanity (with Astro), WordPress, Webflow CMS |
+| E-commerce | WooCommerce (headless), Shopify, Stripe |
+| CMS | WordPress (headless), Webflow CMS (headless), Sanity |
 | CDP | Segment, RudderStack |
 | CRM | HubSpot, Salesforce |
 | Analytics | GA4, Google Tag Manager, Looker Studio |
@@ -40,8 +43,7 @@ Not sure which fits? Read the [platform guide](https://www.michellevision.com/pl
 ## Core tech
 
 ![Astro](https://img.shields.io/badge/Astro-0D0E11?style=for-the-badge&logo=astro&logoColor=C9A96E)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -50,19 +52,20 @@ Not sure which fits? Read the [platform guide](https://www.michellevision.com/pl
 
 Two case studies show how I approach the work. They are portfolio pieces, not client engagements, so they describe goals and process rather than measured results.
 
-- **Legacy CMS to headless Astro:** audit, ETL data migration, and redirect planning.
+- **Legacy CMS to headless Astro:** audit, data migration, and redirect planning.
 - **Unified company dashboard:** webhook and API connectors linking CRM, ERP, and BI tools into one view.
 
 My own site, michellevision.com, is built on Astro with technical SEO, GA4, and form handling.
 
-## In progress: sample builds on both platforms (launching Q1 2027)
+## In progress: three sample builds (target: Q1 2027)
 
-One shared MarTech setup (GA4 and server-side GTM, CRM-synced forms, automation, and an n8n alert workflow) built on each platform so the results can be compared:
+One shared MarTech setup (GA4 events and UTM rules, CRM-synced forms, and an automation workflow) built on each sample so the results can be compared:
 
-- **Astro:** lead-gen marketing site
-- **Next.js:** headless storefront with CDP and server-side ad conversions
+- **Astro with headless WordPress:** lead-generation marketing site and blog
+- **Next.js with headless WooCommerce:** storefront with GA4 ecommerce events
+- **Astro with headless Webflow CMS:** marketing site with CMS-driven case studies
 
-Follow along on the [case studies page](https://www.michellevision.com/cases). Source for the Astro sample will be published in this profile when they launch.
+Follow along on the [case studies page](https://www.michellevision.com/cases). Source for each sample will be published in this profile as it launches.
 
 ## Writing
 
