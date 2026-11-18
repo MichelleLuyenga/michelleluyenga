@@ -1,6 +1,6 @@
 # Hi, I'm Michelle Sadsad Luyenga
 
-**Marketing Web Developer.** I build marketing websites on **Astro and Next.js** with a headless CMS (**WordPress, including WooCommerce, or Webflow**), then connect them to the CRM, customer data, analytics, email automation, and ad tools a business already uses, so leads, orders, and campaign data flow without manual exports.
+**Marketing Web Developer.** I build marketing websites on **Astro and Next.js** with a headless CMS, then connect them to the CRM, customer data, analytics, email automation, and ad tools a business already uses, so leads, orders, and campaign data flow without manual exports.
 
 **Open to:** client projects and full-time marketing web development roles.
 
@@ -11,7 +11,7 @@
 ## What I do
 
 - **Build fast marketing sites:** performance-first Astro or Next.js builds with a planned analytics event schema and consent-aware tracking.
-- **Go headless:** connect a WordPress (with WooCommerce) or Webflow CMS to a fast front end, so editors keep the dashboard they know.
+- **Go headless:** connect Sanity to a fast front end, so editors keep the dashboard they know.
 - **Migrate legacy sites:** content and data migration, plus URL redirects that protect search rankings.
 - **Connect the marketing stack:** e-commerce, CMS, CRM, analytics, marketing automation, advertising, and workflow tools wired into one system.
 - **Build internal dashboards:** secure, role-based views that pull data from CRMs, ERPs, and BI tools.
@@ -22,8 +22,6 @@
 | --- | --- |
 | **Astro** | Content-heavy marketing sites and blogs where speed and SEO matter most |
 | **Next.js** | Online stores, personalized pages, and app-like experiences |
-| **Headless WordPress (with WooCommerce)** | Editors keep WordPress, while the public site runs on Astro or Next.js and WooCommerce powers products and checkout |
-| **Headless Webflow CMS** | Editors keep Webflow's CMS, while the front end is built in code and connected through the API |
 
 Not sure which fits? Read the [platform guide](https://www.michellevision.com/platforms).
 
@@ -31,14 +29,14 @@ Not sure which fits? Read the [platform guide](https://www.michellevision.com/pl
 
 | Area | Tools |
 | --- | --- |
-| E-commerce | WooCommerce (headless), Shopify, Stripe |
-| CMS | WordPress (headless), Webflow CMS (headless), Sanity |
-| CDP | Segment, RudderStack |
-| CRM | HubSpot, Salesforce |
+| E-commerce | Shopify, Stripe |
+| CMS | Sanity |
+| CDP | Segment |
+| CRM | HubSpot |
 | Analytics | GA4, Google Tag Manager, Looker Studio |
-| Marketing automation | HubSpot Marketing, Klaviyo, Mailchimp |
+| Marketing automation | HubSpot Marketing, Mailchimp |
 | Advertising | Google Ads, Meta Conversions API |
-| Workflow | Make, n8n, Zapier |
+| Workflow | Make, Zapier |
 
 ## Core tech
 
@@ -61,9 +59,8 @@ My own site, michellevision.com, is built on Astro with technical SEO, GA4, and 
 
 One shared MarTech setup (GA4 events and UTM rules, CRM-synced forms, and an automation workflow) built on each sample so the results can be compared:
 
-- **Astro with headless WordPress:** lead-generation marketing site and blog
-- **Next.js with headless WooCommerce:** storefront with GA4 ecommerce events
-- **Astro with headless Webflow CMS:** marketing site with CMS-driven case studies
+- **Astro with Sanity CMS:** lead-generation marketing site and blog
+- **Next.js with Shopify Storefront:** storefront with GA4 ecommerce events
 
 Follow along on the [case studies page](https://www.michellevision.com/cases). Source for each sample will be published in this profile as it launches.
 
